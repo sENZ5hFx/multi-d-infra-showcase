@@ -27,9 +27,9 @@ Change Date: 2029-05-24
 Copyright (C) 2026 Haley Ann Bird. All rights reserved.
 ```
 
-## Notice
+## Note
 
-This is a public showcase repository. The underlying platform (Multi-D-Infra) is proprietary. Viewing this showcase does not grant any rights to use, copy, or deploy the underlying system. Commercial use requires a license from Haley Ann Bird.
+This is a public showcase repository. The underlying Multi-D-Infra platform (https://github.com/sENZ5hFx/Multi-D-Infra) is private and separately protected. All showcase content, descriptions, and materials herein are copyright Haley Ann Bird.
 
 ## Declaration
 
